@@ -4,10 +4,10 @@
 **Result**: **Top 25** team <br>
 
 #### Team mates-
-* [Hrushikesh Rao](https://github.com/hrushi20)
-* [Saimahesh](https://github.com/saimaheshtaduri)
-* [Bilal Aamer](https://github.com/bilal-aamer)
-* [Surya Teja](https://github.com/teja1809)
+* [Raj Mishra]
+* [Omkar Talwadekar]
+* [Sushant Singh]
+* [Rishabh Tiwari]
 
 
 # BKyc
